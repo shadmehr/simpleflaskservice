@@ -17,3 +17,4 @@ RUN pip install -r /var/www/requirements.txt
 EXPOSE 9876
 
 CMD ["python", "./simpleflaskservice.py"]
+
